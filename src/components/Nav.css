@@ -1,0 +1,63 @@
+span {
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+
+    text-shadow: -1px 0 #FFFFFF, 0 1px #FFFFFF, 1px 0 #FFFFFF, 0 -1px #FFFFFF;
+}
+
+.m1 {
+    position: absolute;
+    left: 930px;
+    top: 255px;
+}
+
+.m2 {
+    position: absolute;
+    left: 590px;
+    top: 195px;
+}
+
+.m3 {
+    position: absolute;
+    left: 990px;
+    top: 255px;
+}
+
+.m4 {
+    position: absolute;
+    left: 880px;
+    top: 230px;
+}
+
+.m5 {
+    position: absolute;
+    left: 610px;
+    top: 225px;
+}
+
+.m6 {
+    position: absolute;
+    left: 450px;
+    top: 225px;
+}
+
+.m7 {
+    position: absolute;
+    left: 990px;
+    top: 465px;
+}
+
+.m8 {
+    position: absolute;
+    left: 290px;
+    top: 320px;
+}
+
+.m9 {
+    position: absolute;
+    left: 670px;
+    top: 280px;
+}

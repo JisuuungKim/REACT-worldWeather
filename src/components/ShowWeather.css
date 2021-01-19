@@ -1,0 +1,47 @@
+.modal {
+    width:800px;
+    height: 450px;
+    background: rgba(255, 255, 255, 0.95);
+    color: #000000;
+    display: grid;
+    position: relative;
+    z-index: 10;
+}
+.close {
+    padding-top:10px;
+    padding-left:10px;
+    width: 20px;
+    height: 20px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+}
+.city {
+    margin:0;
+    font-size: 40px;
+    color: #000000;
+    text-align: center;
+    padding:0;
+}
+.small_font {
+    margin:0;
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+    padding:0;
+    top: -30px;
+}
+.temp {
+    margin:0;
+    font-size: 60px;
+    color: #000000;
+    text-align: center;
+    padding:0;
+    top: -30px;
+}
+.icon {
+    width:200px;
+    height: 200px;
+    margin:0;
+}

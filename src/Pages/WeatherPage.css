@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%), url("../image/clouds-2329680_1920.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin:0;
+}
+
+.layout {
+    display: flex;
+    justify-content: center;
+
+}
+.map {
+    background-image: url("../image/159-1597351_world-map-vector-png.png");
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin-top: 50px;
+    width: 800px;
+    height: 450px;
+
+}
+
